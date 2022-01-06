@@ -44,7 +44,9 @@ body {
   cursor: pointer;
 }
 /* first section end */
+
 /* second section start */
+
 .mymission {
   margin-top: 10px;
   text-align: center;
@@ -52,3 +54,34 @@ body {
 .mymission span {
   color: firebrick;
 }
+.mission {
+  width: 320px;
+  border-radius: 15px;
+  background-color: rgba(71, 143, 151, 0.1);
+}
+.vission {
+  width: 320px;
+  border-radius: 15px;
+  background-color: rgba(255, 89, 89, 0.1);
+}
+.goal {
+  width: 320px;
+  border-radius: 15px;
+  background-color: #fff4d6;
+}
+
+.missionImg img {
+  width: 50%;
+}
+.allDivision {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 35px;
+  justify-content: space-between;
+}
+.missionContent {
+  padding: 10px 15px;
+}
+/* second section end */
