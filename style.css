@@ -90,8 +90,6 @@ body {
   display: flex;
   width: 80%;
   margin: 0 auto;
-  background-image: url(./images/shapes/shape-1.png);
-  background-repeat: no-repeat;
 }
 .leftImage {
   margin-top: 80px;
