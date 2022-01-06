@@ -115,3 +115,16 @@ body {
   cursor: pointer;
 }
 /* Third section end */
+/* four section start */
+.fourSection {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.rightImage {
+  margin-top: 80px;
+}
+.fourSectionLeft {
+  margin-top: 80px;
+  margin-left: 40px;
+}
