@@ -1,0 +1,41 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.firstSection {
+  display: flex;
+  align-content: space-between;
+  margin: 30px 20px;
+}
+.rightSide {
+  width: 50%;
+}
+.leftSide {
+  width: 50%;
+}
+
+.rightTop {
+  border-left: 4px solid;
+  border-color: tomato;
+}
+.rightTop span {
+  color: rgb(98, 211, 64);
+}
+.rightButton button {
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: black;
+}
+.rightButton a {
+  text-decoration: none;
+  color: antiquewhite;
+  width: 400;
+}
+
+.rightButton button:hover {
+  background-color: tomato;
+  cursor: pointer;
+}
+.leftIamges img {
+  width: 40%;
+}
