@@ -76,7 +76,7 @@ body {
 .allDivision {
   display: flex;
   width: 80%;
-  margin: auto;
+  margin: 0 auto;
   margin-top: 25px;
   margin-bottom: 35px;
   justify-content: space-between;
@@ -85,3 +85,34 @@ body {
   padding: 10px 15px;
 }
 /* second section end */
+/* third section start */
+.thirdSection {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  background-image: url(./images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+}
+.leftImage {
+  margin-top: 80px;
+}
+.thirdSectionRight {
+  margin-top: 80px;
+  margin-left: 40px;
+}
+/* third section button */
+.second-btn button {
+  margin-top: 5px;
+  padding: 10px 50px;
+  border-radius: 5px;
+  background-color: tomato;
+}
+.second-btn button a {
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+}
+.second-btn button:hover {
+  background-color: firebrick;
+  cursor: pointer;
+}
