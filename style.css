@@ -144,6 +144,7 @@ body {
 }
 .section5image img {
   width: 350px;
+  border-radius: 10px;
 }
 .header {
   text-align: center;
