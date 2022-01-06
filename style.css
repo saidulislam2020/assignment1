@@ -1,7 +1,10 @@
+/* body start */
 body {
   font-family: "Be Vietnam Pro", sans-serif;
   font-family: "Poppins", sans-serif;
 }
+/* body end */
+/* first section start */
 .firstSection {
   display: flex;
   width: 80%;
@@ -39,4 +42,13 @@ body {
 .explore-btn button:hover {
   background-color: firebrick;
   cursor: pointer;
+}
+/* first section end */
+/* second section start */
+.mymission {
+  margin-top: 10px;
+  text-align: center;
+}
+.mymission span {
+  color: firebrick;
 }
