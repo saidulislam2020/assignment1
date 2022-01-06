@@ -125,6 +125,32 @@ body {
   margin-top: 80px;
   margin-left: 40px;
 }
+/* four section end */
+/* Five section Start  */
+.sectionFive {
+  margin-top: 50px;
+}
+.Fivecontent {
+  margin-left: 15px;
+  background-image: url(./images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.section5Content {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.section5image img {
+  width: 350px;
+}
+.header {
+  text-align: center;
+}
+
+/* Five Section End */
+
 /* footer part  start*/
 footer {
   margin-top: 100px;
